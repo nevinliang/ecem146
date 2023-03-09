@@ -1,0 +1,75 @@
+# eem146
+
+21S-COMSCIM146-1
+
+Spring 2021
+
+Assignments List
+
+NAME	STATUS	RELEASEDDUE (PDT)
+
+Final	
+
+Submitted
+
+JUN 07JUN 08 AT 8:00AM
+
+HW7	
+
+98.0 / 100.0
+
+MAY 24JUN 02 AT 4:00PM
+
+HW6	
+
+98.5 / 100.0
+
+MAY 22MAY 24 AT 4:00PM
+
+Exam 2	
+
+97.0 / 100.0
+
+MAY 17MAY 18 AT 10:00AM
+
+HW5	
+
+94.0 / 100.0
+
+MAY 03MAY 11 AT 4:00PM
+
+HW4	
+
+100.0 / 100.0
+
+APR 26MAY 03 AT 4:00PM
+
+HW3	
+
+105.0 / 105.0
+
+APR 12APR 26 AT 4:00PM
+
+Exam 1	
+
+94.0 / 100.0
+
+APR 19APR 20 AT 10:00AM
+
+HW2	
+
+97.0 / 100.0
+
+APR 05APR 12 AT 4:00PM
+
+HW1	
+
+100.0 / 100.0
+
+MAR 28APR 05 AT 4:30PM
+
+Mandatory Self Diagnostic Quiz	
+
+Submitted
+
+MAR 29APR 03 AT 12:00AM
